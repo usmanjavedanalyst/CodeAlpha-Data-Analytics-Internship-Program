@@ -1,7 +1,7 @@
-#  CodeAlpha Data Analytics Internship Program
+#  CodeAlpha Data Analytics Internship Program (Remote)
 
 ##  Overview
-This repository showcases the projects and practical tasks completed during the **Data Analytics Internship at** :contentReference[oaicite:0]{index=0}.  
+This repository showcases the projects and practical tasks completed during the **Data Analytics Internship at** CodeAlpha.  
 The internship focuses on applying data analytics concepts to real-world datasets through data cleaning, analysis, visualization, and insight generation using modern analytical tools and techniques.
 
 ---
